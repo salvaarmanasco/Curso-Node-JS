@@ -1,4 +1,5 @@
-const Clock = require("./clock-ES5");
+// const Clock = require("./clock-ES5");
+const Clock = require("./clock-ES6");
 
 ("use strict");
 
